@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d10342dd9b4eba1590b999a50e255fbf71039a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/.android/build-cache/b82b6c0f0d19e41eae3a8dd7d600c0f41d18f4bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_054e9d9a6de5c51d523974457344eec0c57a5a11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/.android/build-cache/b28ff6556192186f9c0ce5bcef63e32408079269/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f30d73f810d33c609c627d59b5a4824721ca2d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/b28ff6556192186f9c0ce5bcef63e32408079269/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_f30d73f810d33c609c627d59b5a4824721ca2d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/b82b6c0f0d19e41eae3a8dd7d600c0f41d18f4bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_054e9d9a6de5c51d523974457344eec0c57a5a11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/.android/build-cache/875486ab10a412d1f780fd5236cc9b5c2dd5aece/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df7c7a4fd3020ce1c32a21da15af41f350cb4015/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/c283ddbc47b3e8e84817921bc03ed358f4e888be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_f1a70975e66c7c728dfd0934c3fc5c79467eb403.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/.android/build-cache/d87776e0a29bfa8a9e56c346271cce46f5325cff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bb2fe0eb2ca3de0802daf8b8772e0ae60cbeb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/d87776e0a29bfa8a9e56c346271cce46f5325cff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_6bb2fe0eb2ca3de0802daf8b8772e0ae60cbeb19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/.android/build-cache/c283ddbc47b3e8e84817921bc03ed358f4e888be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a70975e66c7c728dfd0934c3fc5c79467eb403/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/c1abc68c1357d3ab2bed9c5f57c2aa1d3b661b45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_8c7db1883a28e4e551487e3070487d0f6103706c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ronadi/.android/build-cache/875486ab10a412d1f780fd5236cc9b5c2dd5aece/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/pre-dexed/release/classes_df7c7a4fd3020ce1c32a21da15af41f350cb4015.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53ba6fb7796be1812e6f92bd2f3d7c13c8a6bbe">
+        <dex dex="/Users/ronadi/Documents/workspace/TransitionDetail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16e02ae523453718b162ea57826534d23e04dccd/classes.dex" />
+    </item>
+
+</items>
